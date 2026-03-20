@@ -1,0 +1,9 @@
+Dataset/
+venv/
+__pycache__/
+local_model/
+*.mp4
+*.csv
+*.jpg
+*.png
+Samples/
